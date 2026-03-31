@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Toghrul Aliyev
 
-### Data Analytics Student | ML & AI Engineer | AI Automation
+### Data Science Student | ML & AI Engineer | AI Automation
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-chartreuse?style=for-the-badge)](https://aliyevt.vercel.app)
 
